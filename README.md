@@ -48,7 +48,7 @@
 
 ## 💝 Thanks to
 
-- [Human](https://github.com/catppuccin)
+- [Jahir Fiquitiva](https://github.com/jahirfiquitiva)
 
 
 
