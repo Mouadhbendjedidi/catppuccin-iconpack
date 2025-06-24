@@ -1,14 +1,14 @@
 ## 📱 System Apps
 
-- [ ] `settings`
-- [ ] `phone`
-- [ ] `messages`
-- [ ] `contacts`
-- [ ] `camera`
-- [ ] `gallery`
-- [ ] `clock`
-- [ ] `calculator`
-- [ ] `calendar`
+- [X] `settings`
+- [x] `phone`
+- [x] `messages`
+- [x] `contacts`
+- [x] `camera`
+- [x] `gallery`
+- [x] `clock`
+- [x] `calculator`
+- [x] `calendar`
 - [ ] `files`
 - [ ] `music`
 - [ ] `weather`
