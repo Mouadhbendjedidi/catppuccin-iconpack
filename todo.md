@@ -9,9 +9,9 @@
 - [x] `clock`
 - [x] `calculator`
 - [x] `calendar`
-- [ ] `files`
-- [ ] `music`
-- [ ] `weather`
+- [x] `files`
+- [x] `music`
+- [x] `weather`
 - [ ] `downloads`
 - [ ] `email`
 - [ ] `notes`
