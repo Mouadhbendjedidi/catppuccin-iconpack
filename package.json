@@ -1,0 +1,12 @@
+{
+  "name": "icon-organizer",
+  "version": "1.0.0",
+  "main": "scripts/organize-icons.ts",
+  "scripts": {
+    "organize": "ts-node scripts/organize-icons.ts"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.3.3"
+  }
+}
