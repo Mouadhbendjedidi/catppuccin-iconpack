@@ -13,11 +13,11 @@
 - [x] `music`
 - [x] `weather`
 - [x] `downloads`
-- [ ] `email`
-- [ ] `notes`
-- [ ] `recorder`
-- [ ] `flashlight`
-- [ ] `battery`
+- [x] `email`
+- [x] `notes`
+- [x] `recorder`
+- [x] `flashlight`
+- [x] `battery`
 - [ ] `wifi`
 - [ ] `bluetooth`
 - [ ] `launcher`
