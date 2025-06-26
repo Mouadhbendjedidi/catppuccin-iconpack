@@ -12,7 +12,7 @@
 - [x] `files`
 - [x] `music`
 - [x] `weather`
-- [ ] `downloads`
+- [x] `downloads`
 - [ ] `email`
 - [ ] `notes`
 - [ ] `recorder`
